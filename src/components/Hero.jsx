@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="/images/avatar-1.jpg"
+                src="./images/avatar-1.jpg"
                 width={40}
                 height={40}
                 alt="Henry Clark portrait"
@@ -35,7 +35,7 @@ const Hero = () => {
             <ButtonPrimary
               label="Download CV"
               icon="download"
-              href="/cv/Sakthivel_Resume - mca.pdf" // Update the path to your CV file
+              href="./cv/Sakthivel_Resume - mca.pdf" // Update the path to your CV file
               download={true} // Indicate that this is a download link
             />
             <ButtonOutline

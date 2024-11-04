@@ -10,19 +10,19 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/images/project-1.jpg",
+    imgSrc: "./images/project-1.jpg",
     title: "Mech Manage",
     tags: ["API", "MVT", "Development"],
     projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",
   },
   {
-    imgSrc: "/images/project-2.jpg",
+    imgSrc: "./images/project-2.jpg",
     title: "Samrt Bus Pass",
     tags: ["API", "MVT", "Development"],
     projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",
   },
   {
-    imgSrc: "/images/project-3.jpg",
+    imgSrc: "./images/project-3.jpg",
     title: "Tourist App",
     tags: ["Development", "API"],
     projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",

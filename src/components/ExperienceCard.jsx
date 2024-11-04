@@ -8,7 +8,7 @@ const ExperienceCard = () => {
       <div className="bg-zinc-800 p-5 rounded-xl min-w-[320px] flex flex-col lg:min-w-[420px]">
         <div className="mb-4 flex items-center gap-3">
           <img
-            src="/images/indusrty.png" // Add a relevant image for the internship/company logo
+            src="./images/indusrty.png" // Add a relevant image for the internship/company logo
             alt="Finedge IT Solutions"
             className="w-12 h-12 object-contain"
           />
@@ -36,25 +36,25 @@ const ExperienceCard = () => {
         <p className="text-zinc-50 font-semibold mb-2">Technologies Used:</p>
         <ul className="flex flex-wrap items-center gap-3">
           <li className="flex items-center">
-            <img src="/images/python.svg" alt="Python" className="w-8 h-8" /> Python
+            <img src="./images/python.svg" alt="Python" className="w-8 h-8" /> Python
           </li>
           <li className="flex items-center">
-            <img src="/images/django.svg" alt="Django" className="w-8 h-8" /> Django
+            <img src="./images/django.svg" alt="Django" className="w-8 h-8" /> Django
           </li>
           <li className="flex items-center">
-            <img src="/images/html.svg" alt="HTML" className="w-8 h-8" /> HTML
+            <img src="./images/html.svg" alt="HTML" className="w-8 h-8" /> HTML
           </li>
           <li className="flex items-center">
-            <img src="/images/css3.svg" alt="CSS" className="w-8 h-8" /> CSS
+            <img src="./images/css3.svg" alt="CSS" className="w-8 h-8" /> CSS
           </li>
           {/* <li className="flex items-center">
             <img src="/images/react.svg" alt="React" className="w-8 h-8" /> React
           </li> */}
           <li className="flex items-center">
-            <img src="/images/mysql.svg" alt="MySQL" className="w-8 h-8" /> MySQL
+            <img src="./images/mysql.svg" alt="MySQL" className="w-8 h-8" /> MySQL
           </li>
           <li className="flex items-center">
-            <img src="/images/angular.svg" alt="Angular" className="w-8 h-8" /> Angular
+            <img src="./images/angular.svg" alt="Angular" className="w-8 h-8" /> Angular
           </li>
         </ul>
       </div>

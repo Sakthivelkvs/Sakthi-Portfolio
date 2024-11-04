@@ -10,42 +10,42 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: "/images/python.svg",
+    imgSrc: "./images/python.svg",
     label: "Python",
     desc: "Programming Language",
   },
   {
-    imgSrc: "/images/django.svg",
+    imgSrc: "./images/django.svg",
     label: "Django",
     desc: "Python Framework",
   },
   {
-    imgSrc: "/images/java.svg",
+    imgSrc: "./images/java.svg",
     label: "Java",
     desc: "Programming Language",
   },
   {
-    imgSrc: "/images/html.svg",
+    imgSrc: "./images/html.svg",
     label: "HTML",
     desc: "Web Tool",
   },
   {
-    imgSrc: "/images/css3.svg",
+    imgSrc: "./images/css3.svg",
     label: "CSS",
     desc: "User Interface",
   },
   {
-    imgSrc: "/images/javascript.svg",
+    imgSrc: "./images/javascript.svg",
     label: "JavaScript",
     desc: "Interaction",
   },
   {
-    imgSrc: "/images/react.svg",
+    imgSrc: "./images/react.svg",
     label: "React",
     desc: "Framework",
   },
   {
-    imgSrc: "/images/vscode.svg",
+    imgSrc: "./images/vscode.svg",
     label: "VS Code",
     desc: "IDE",
   },
