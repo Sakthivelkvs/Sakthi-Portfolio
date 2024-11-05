@@ -13,19 +13,19 @@ const works = [
     imgSrc: "./images/project-1.jpg",
     title: "Mech Manage",
     tags: ["API", "MVT", "Development"],
-    projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",
+    projectLink: "https://github.com/Sakthivelkvs/MechLand",
   },
   {
     imgSrc: "./images/project-2.jpg",
     title: "Smart Bus Pass",
     tags: ["API", "MVT", "Development"],
-    projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",
+    projectLink: "https://github.com/Sakthivelkvs/Smart-Bus-Pass",
   },
   {
     imgSrc: "./images/project-3.jpg",
     title: "Tourist App",
     tags: ["Development", "API"],
-    projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",
+    projectLink: "https://github.com/Sakthivelkvs/TouristApp-React",
   },
   // {
   //   imgSrc: "/images/project-4.jpg",
