@@ -17,7 +17,7 @@ const works = [
   },
   {
     imgSrc: "./images/project-2.jpg",
-    title: "Samrt Bus Pass",
+    title: "Smart Bus Pass",
     tags: ["API", "MVT", "Development"],
     projectLink: "https://www.linkedin.com/in/sakthivel-k04/details/projects/",
   },
